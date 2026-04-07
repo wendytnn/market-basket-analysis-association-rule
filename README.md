@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Market Basket Analysis: Association Rule Mining for Groceries
 
 ## Project Overview
@@ -45,3 +46,7 @@ The analysis is structured into several key phases:
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/your-username/grocery-association-rules.git](https://github.com/your-username/grocery-association-rules.git)
+=======
+# market-basket-analysis-association-rule
+An Association Rule Mining project using the Apriori algorithm to perform Market Basket Analysis on a groceries dataset. The project includes data cleaning, exploratory data analysis (EDA), and the discovery of frequent itemsets and high-lift purchase patterns to drive retail insights.
+>>>>>>> d1996ce4da26bb34459681d6e915e2ef32ce72a0
